@@ -1,0 +1,2 @@
+E:/AndroidStudioProjects/intelligence_school/android/app/.cxx/Debug/aw1s69g2/x86_64/CMakeFiles/edit_cache.dir
+E:/AndroidStudioProjects/intelligence_school/android/app/.cxx/Debug/aw1s69g2/x86_64/CMakeFiles/rebuild_cache.dir
